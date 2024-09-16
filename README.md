@@ -2,7 +2,7 @@
 
 Չի խրախուսվում օգտագործել այս ստեղնաշարի նատիվ տարբերակները Windows և Linux ՕՀ-երի վրա, քանի որ ավելորդ բացատներ մուտքագրելու անհրաժեշտություն կա:
 
-*Windows և Linux ՕՀ-երի համակարգերի վրա նախընտրելի է օգտագործել Keyman տարբերակը, որը կարելի է տեղադրել [այստեղից](https://github.com/dotland/mnemonic-kb-hy-)։*
+*Windows և Linux ՕՀ-երի համակարգերի վրա նախընտրելի է օգտագործել Keyman տարբերակը, որը կարելի է տեղադրել [այստեղից](https://github.com/dotland/mnemonic-kb-hy-km)։*
 
 ### Տեղադրումը
 
@@ -25,6 +25,6 @@ sudo ./install.sh
 ### Հղումներ
 
 <a id="1">&nbsp;&nbsp;1.&nbsp;</a>
-[«Armenian Mnemonic» Keyman ստեղնաշարը։](https://github.com/dotland/mnemonic-kb-hy-) <br />
+[«Armenian Mnemonic» Keyman ստեղնաշարը։](https://github.com/dotland/mnemonic-kb-hy-km) <br />
 <a id="2">&nbsp;&nbsp;2.&nbsp;</a>
 [Հայկական մնեմոնիկ ստեղնաշարի նախագիծը։](https://github.com/dotland/mnemonic-kb-hy) <br />
